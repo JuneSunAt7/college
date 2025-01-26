@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a6363b3-dab6-46c4-ad46-e9c377e7000e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/college.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_practice/array_algorithmic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_practice/guess_game.py" afterDir="false" />
+    <list default="true" id="9a6363b3-dab6-46c4-ad46-e9c377e7000e" name="Changes" comment="first task is closed">
+      <change afterPath="$PROJECT_DIR$/second_practice/even_odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_practice/str_stat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JuneSunAt7"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JuneSunAt7/college.git",
+    "accountId": "4d3e5c81-7930-4b58-95e1-0814fc7c77dd"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -42,9 +50,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.array_algorithmic.executor": "Run",
+    "Python.even_odd.executor": "Run",
     "Python.first_practice.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -68,6 +77,30 @@
       <option name="presentableId" value="Default" />
       <updated>1737885611379</updated>
     </task>
+    <task id="LOCAL-00001" summary="first task is closed">
+      <option name="closed" value="true" />
+      <created>1737886950755</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737886950755</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first task is closed" />
+    <option name="LAST_COMMIT_MESSAGE" value="first task is closed" />
   </component>
 </project>
