@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a6363b3-dab6-46c4-ad46-e9c377e7000e" name="Changes" comment="first task is closed">
-      <change afterPath="$PROJECT_DIR$/second_practice/even_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/second_practice/str_stat.py" afterDir="false" />
+    <list default="true" id="9a6363b3-dab6-46c4-ad46-e9c377e7000e" name="Changes" comment="second task is closed">
+      <change afterPath="$PROJECT_DIR$/thrid_practice/caesar_cip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thrid_practice/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thrid_practice/num_finder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thrid_practice/str_changer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,21 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "JuneSunAt7"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JuneSunAt7&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/JuneSunAt7/college.git",
-    "accountId": "4d3e5c81-7930-4b58-95e1-0814fc7c77dd"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JuneSunAt7/college.git&quot;,
+    &quot;accountId&quot;: &quot;4d3e5c81-7930-4b58-95e1-0814fc7c77dd&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2sA5bhSdU190vwZy5KhCxJZ0GwV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,8 +54,14 @@
     "Python.array_algorithmic.executor": "Run",
     "Python.even_odd.executor": "Run",
     "Python.first_practice.executor": "Run",
+    "Python.num_finder.executor": "Run",
+    "Python.simply_jobs.executor": "Run",
+    "Python.str_changer.executor": "Run",
+    "Python.str_stat.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/programming/python/college"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -85,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737886950755</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second task is closed">
+      <option name="closed" value="true" />
+      <created>1737888465697</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737888465697</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first task is closed" />
-    <option name="LAST_COMMIT_MESSAGE" value="first task is closed" />
+    <MESSAGE value="second task is closed" />
+    <option name="LAST_COMMIT_MESSAGE" value="second task is closed" />
   </component>
 </project>
