@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a6363b3-dab6-46c4-ad46-e9c377e7000e" name="Changes" comment="second task is closed">
-      <change afterPath="$PROJECT_DIR$/thrid_practice/caesar_cip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thrid_practice/example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thrid_practice/num_finder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thrid_practice/str_changer.py" afterDir="false" />
+    <list default="true" id="9a6363b3-dab6-46c4-ad46-e9c377e7000e" name="Changes" comment="third task is closed">
+      <change afterPath="$PROJECT_DIR$/four_practice/json_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/four_practice/simple_handler.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,16 +50,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.array_algorithmic.executor": "Run",
+    "Python.caesar_cip.executor": "Run",
     "Python.even_odd.executor": "Run",
     "Python.first_practice.executor": "Run",
     "Python.num_finder.executor": "Run",
+    "Python.simple_handler.executor": "Run",
     "Python.simply_jobs.executor": "Run",
     "Python.str_changer.executor": "Run",
     "Python.str_stat.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/programming/python/college"
+    "last_opened_file_path": "C:/programming/python/dsp"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -101,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737888465697</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="third task is closed">
+      <option name="closed" value="true" />
+      <created>1738687160059</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738687160059</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +126,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first task is closed" />
     <MESSAGE value="second task is closed" />
-    <option name="LAST_COMMIT_MESSAGE" value="second task is closed" />
+    <MESSAGE value="third task is closed" />
+    <option name="LAST_COMMIT_MESSAGE" value="third task is closed" />
   </component>
 </project>
