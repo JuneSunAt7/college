@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a6363b3-dab6-46c4-ad46-e9c377e7000e" name="Changes" comment="six task is closed">
-      <change afterPath="$PROJECT_DIR$/seven_practice/control_questions.txt" afterDir="false" />
+    <list default="true" id="9a6363b3-dab6-46c4-ad46-e9c377e7000e" name="Changes" comment="eight task is closed">
+      <change afterPath="$PROJECT_DIR$/nine_practice/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nine_practice/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eight_practice/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/eight_practice/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -46,25 +49,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.array_algorithmic.executor&quot;: &quot;Run&quot;,
-    &quot;Python.caesar_cip.executor&quot;: &quot;Run&quot;,
-    &quot;Python.even_odd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.first_practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.json_handler.executor&quot;: &quot;Run&quot;,
-    &quot;Python.num_finder.executor&quot;: &quot;Run&quot;,
-    &quot;Python.simple_handler.executor&quot;: &quot;Run&quot;,
-    &quot;Python.simply_jobs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.str_changer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.str_stat.executor&quot;: &quot;Run&quot;,
-    &quot;Python.todo_cli.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/programming/python/dsp&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.array_algorithmic.executor": "Run",
+    "Python.caesar_cip.executor": "Run",
+    "Python.even_odd.executor": "Run",
+    "Python.first_practice.executor": "Run",
+    "Python.json_handler.executor": "Run",
+    "Python.num_finder.executor": "Run",
+    "Python.simple_handler.executor": "Run",
+    "Python.simply_jobs.executor": "Run",
+    "Python.str_changer.executor": "Run",
+    "Python.str_stat.executor": "Run",
+    "Python.todo_cli.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/programming/python/dsp"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\programming\python\college\first_practice" />
@@ -142,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740837721833</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="eight task is closed">
+      <option name="closed" value="true" />
+      <created>1743430838185</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1743430838185</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +175,7 @@
     <MESSAGE value="four task is closed" />
     <MESSAGE value="five task is closed" />
     <MESSAGE value="six task is closed" />
-    <option name="LAST_COMMIT_MESSAGE" value="six task is closed" />
+    <MESSAGE value="eight task is closed" />
+    <option name="LAST_COMMIT_MESSAGE" value="eight task is closed" />
   </component>
 </project>
