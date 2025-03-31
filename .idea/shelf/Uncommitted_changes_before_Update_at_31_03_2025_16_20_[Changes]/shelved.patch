@@ -1,0 +1,94 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"9a6363b3-dab6-46c4-ad46-e9c377e7000e\" name=\"Changes\" comment=\"five task is closed\">\r\n      <change afterPath=\"$PROJECT_DIR$/six_practice/control_questions.txt\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;JuneSunAt7&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/JuneSunAt7/college.git&quot;,\r\n    &quot;accountId&quot;: &quot;4d3e5c81-7930-4b58-95e1-0814fc7c77dd&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 6\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2sA5bhSdU190vwZy5KhCxJZ0GwV\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python.array_algorithmic.executor\": \"Run\",\r\n    \"Python.caesar_cip.executor\": \"Run\",\r\n    \"Python.even_odd.executor\": \"Run\",\r\n    \"Python.first_practice.executor\": \"Run\",\r\n    \"Python.json_handler.executor\": \"Run\",\r\n    \"Python.num_finder.executor\": \"Run\",\r\n    \"Python.simple_handler.executor\": \"Run\",\r\n    \"Python.simply_jobs.executor\": \"Run\",\r\n    \"Python.str_changer.executor\": \"Run\",\r\n    \"Python.str_stat.executor\": \"Run\",\r\n    \"Python.todo_cli.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"last_opened_file_path\": \"C:/programming/python/dsp\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\programming\\python\\college\\first_practice\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"9a6363b3-dab6-46c4-ad46-e9c377e7000e\" name=\"Changes\" comment=\"\" />\r\n      <created>1737885611379</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1737885611379</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"first task is closed\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1737886950755</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1737886950755</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"second task is closed\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1737888465697</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1737888465697</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"third task is closed\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1738687160059</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1738687160059</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"four task is closed\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1739880410068</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1739880410068</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"four task is closed\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1739880497548</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1739880497548</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"five task is closed\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740832800909</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740832800910</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"7\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"first task is closed\" />\r\n    <MESSAGE value=\"second task is closed\" />\r\n    <MESSAGE value=\"third task is closed\" />\r\n    <MESSAGE value=\"four task is closed\" />\r\n    <MESSAGE value=\"five task is closed\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"five task is closed\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 746f7b266299dc711b9dfa1d15144c7bfeee4511)
++++ b/.idea/workspace.xml	(date 1741886015997)
+@@ -4,8 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="9a6363b3-dab6-46c4-ad46-e9c377e7000e" name="Changes" comment="five task is closed">
+-      <change afterPath="$PROJECT_DIR$/six_practice/control_questions.txt" afterDir="false" />
++    <list default="true" id="9a6363b3-dab6-46c4-ad46-e9c377e7000e" name="Changes" comment="six task is closed">
++      <change afterPath="$PROJECT_DIR$/seven_practice/control_questions.txt" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -46,25 +46,25 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Python.array_algorithmic.executor": "Run",
+-    "Python.caesar_cip.executor": "Run",
+-    "Python.even_odd.executor": "Run",
+-    "Python.first_practice.executor": "Run",
+-    "Python.json_handler.executor": "Run",
+-    "Python.num_finder.executor": "Run",
+-    "Python.simple_handler.executor": "Run",
+-    "Python.simply_jobs.executor": "Run",
+-    "Python.str_changer.executor": "Run",
+-    "Python.str_stat.executor": "Run",
+-    "Python.todo_cli.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "git-widget-placeholder": "main",
+-    "last_opened_file_path": "C:/programming/python/dsp"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Python.array_algorithmic.executor&quot;: &quot;Run&quot;,
++    &quot;Python.caesar_cip.executor&quot;: &quot;Run&quot;,
++    &quot;Python.even_odd.executor&quot;: &quot;Run&quot;,
++    &quot;Python.first_practice.executor&quot;: &quot;Run&quot;,
++    &quot;Python.json_handler.executor&quot;: &quot;Run&quot;,
++    &quot;Python.num_finder.executor&quot;: &quot;Run&quot;,
++    &quot;Python.simple_handler.executor&quot;: &quot;Run&quot;,
++    &quot;Python.simply_jobs.executor&quot;: &quot;Run&quot;,
++    &quot;Python.str_changer.executor&quot;: &quot;Run&quot;,
++    &quot;Python.str_stat.executor&quot;: &quot;Run&quot;,
++    &quot;Python.todo_cli.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/programming/python/dsp&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="C:\programming\python\college\first_practice" />
+@@ -134,7 +134,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1740832800910</updated>
+     </task>
+-    <option name="localTasksCounter" value="7" />
++    <task id="LOCAL-00007" summary="six task is closed">
++      <option name="closed" value="true" />
++      <created>1740837721832</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1740837721833</updated>
++    </task>
++    <option name="localTasksCounter" value="8" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -154,6 +162,7 @@
+     <MESSAGE value="third task is closed" />
+     <MESSAGE value="four task is closed" />
+     <MESSAGE value="five task is closed" />
+-    <option name="LAST_COMMIT_MESSAGE" value="five task is closed" />
++    <MESSAGE value="six task is closed" />
++    <option name="LAST_COMMIT_MESSAGE" value="six task is closed" />
+   </component>
+ </project>
+\ No newline at end of file
+diff --git a/seven_practice/control_questions.txt b/seven_practice/control_questions.txt
+new file mode 100644
