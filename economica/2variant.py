@@ -1,3 +1,5 @@
+from tabulate import tabulate
+
 '''
 Относительное отклонение для первых трех строк.
 
@@ -53,5 +55,16 @@ data["Относительное отклонение"][4] = round(
     ((report_tech_per_worker - base_tech_per_worker) / base_tech_per_worker) * 100, 2
 )
 
-for key, value in data.items():
-    print(f"{key}: {value}")
+table_data = []
+for i in range(len(data["Показатель"])):
+    row = [
+        data["Показатель"][i],
+        data["Базисный год"][i],
+        data["Отчетный год"][i],
+        data["Относительное отклонение"][i]
+    ]
+    table_data.append(row)
+
+# Вывод таблицы с использованием tabulate
+headers = ["Показатель", "Базисный год", "Отчетный год", "Относительное отклонение"]
+print(tabulate(table_data, headers=headers, tablefmt="grid"))

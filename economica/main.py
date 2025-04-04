@@ -1,3 +1,5 @@
+from tabulate import tabulate
+
 '''
 
 Процент к итогу (базисный год)=
@@ -46,5 +48,21 @@ data["% к итогу (базисный)"].append(100)
 data["% к итогу (отчетный)"].append(100)
 data["Отклонение"].append(0)
 
-for key, value in data.items():
-    print(f"{key}: {value}")
+table_data = []
+for i in range(len(data["Вид основных средств"])):
+    row = [
+        data["Вид основных средств"][i],
+        data["Базисный год (тыс. руб.)"][i],
+        data["Отчетный год (тыс. руб.)"][i],
+        data["% к итогу (базисный)"][i],
+        data["% к итогу (отчетный)"][i],
+        data["Отклонение"][i]
+    ]
+    table_data.append(row)
+
+# Заголовки столбцов
+headers = ["Вид основных средств", "Базисный год (тыс. руб.)", "Отчетный год (тыс. руб.)",
+           "% к итогу (базисный)", "% к итогу (отчетный)", "Отклонение"]
+
+# Вывод таблицы с использованием tabulate
+print(tabulate(table_data, headers=headers, tablefmt="grid"))
